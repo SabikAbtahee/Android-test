@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "264351438391",
+    "firebase_url": "https://iit-repository.firebaseio.com",
+    "project_id": "iit-repository",
+    "storage_bucket": "iit-repository.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264351438391:android:204043e70bfd5559",
+        "android_client_info": {
+          "package_name": "com.giantsquid.iit_repository"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264351438391-04jcuddsg7v1l2isqj5ungnetq232u50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giantsquid.iit_repository",
+            "certificate_hash": "0382557a8c5696e86b70cc2be3885b87415dd50f"
+          }
+        },
+        {
+          "client_id": "264351438391-slmf7h3pft6tbm5duv5mb5icbsrt0iuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiNr3htSK2eKPXzOXpD91EKK2rsTwjBoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264351438391-slmf7h3pft6tbm5duv5mb5icbsrt0iuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
